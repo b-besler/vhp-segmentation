@@ -1,0 +1,11 @@
+# Internal tools
+pbr
+flake8
+
+# Image processing
+SimpleITK
+vtk
+
+# Numerics
+numpy
+matplotlib
