@@ -5,3 +5,5 @@
 *.synctex.gz
 *.eggs
 *.egg-info
+/RAW
+/.vscode
